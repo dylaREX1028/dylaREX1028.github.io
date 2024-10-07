@@ -1,4 +1,5 @@
-# http://127.0.0.1:8000/    este es link del trabajo donde está documento de igual manera se va subir una archivo con el link.
+# http://127.0.0.1:8000/ este va a ser el link del trabajo donde está el documento que corresponde
+# al avance, de igual manera se va subir una archivo con el link.
 # Gabriel González Rivera - B93432
 # Dilana Rodríguez Jiménez - C06660
 # Sebastián Bonilla Vega - C01263
