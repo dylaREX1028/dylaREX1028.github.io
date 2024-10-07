@@ -1,3 +1,8 @@
+#http://127.0.0.1:8000/    este es link del trabajo donde está documento de igual manera
+# Gabriel González Rivera - B93432
+# Dilana Rodríguez Jiménez - C06660
+#Sebástian Bonilla Vega - C01263
+
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
