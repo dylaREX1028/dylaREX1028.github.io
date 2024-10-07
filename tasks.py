@@ -45,7 +45,7 @@ def test_task(url, group):
                 timestamp=timestamp,
                 variable_1=data["variable_1"][sample],
                 variable_2=data["variable_2"][sample],
-                variable_3=data["variable_3"][sample],
+
             )
             session.add(record)
             session.commit()
@@ -57,7 +57,7 @@ def test_task(url, group):
 
 @app.task
 def schedule_task():
-    return "¡Hola gente cada 60 minutos!"
+    return "¡Hola mundo cada 60 minutos!"
 
 
 # ----------
