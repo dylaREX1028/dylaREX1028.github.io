@@ -1,7 +1,10 @@
 # Proyecto de programación de IE0405 - Modelos Probabilísticos de Señales y Sistemas
 El grupo está conformado por:
+
 Dilana Alexandra Rodríguez Jiménez - C06660
+
 Gabriel González Rivera            - B93432
+
 Sebastián Bonilla Vega             - C01263
 
 ## Avance del proyecto
