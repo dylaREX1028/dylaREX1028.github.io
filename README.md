@@ -1,5 +1,15 @@
 # Proyecto de programación de IE0405 - Modelos Probabilísticos de Señales y Sistemas
+El grupo está conformado por:
+Dilana Alexandra Rodríguez Jiménez - C06660
+Gabriel González Rivera            - B93432
+Sebastián Bonilla Vega             - C01263
 
+## Avance del proyecto
+Toda la documentación del primer avance del proyecto esta en este link:
+
+Además el archivo a correr es `avance.py` de los cuales analiza el conjuntos de datos recopilados de `proyecto.db`
+
+## De aquí en adelante es documentación brindada por los docentes y la asistente sobre el proyectoa a realizar
 Los archivos incluidos en el repositorio original son:
 
 - `mkdocs.yml`: configuración de la documentación en Material for MkDocs. Para más detalles, ver su [documentación](https://squidfunk.github.io/mkdocs-material/).
