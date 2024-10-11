@@ -14,5 +14,23 @@ Además el archivo a correr es `avance.py` de los cuales analiza el conjuntos de
 
 
 ## Resultados del  proyecto
-En esta sección solo se va a mostar sin tanto detalle lo que se obtuvo
+En esta sección solo se va a mostar sin tanto detalle lo que se obtuvo:
+
+### Histogramas:
 ![image](https://github.com/user-attachments/assets/ed4ec82b-a1ed-4d55-9da4-614e0ddb373a)
+
+### Momentos estadísticos:
+
+- Momentos de variable_1:
+  - Promedio: 0.0030754730077360497
+  - Varianza: 3.2927034329900775
+  - Desviación estándar: 1.8145807871213884
+  - Inclinación: 0.010291901241070064
+  - Kurtosis: 1.1335262206667638
+
+- Momentos de variable_2:
+  - Promedio: 4.292701198685403
+  - Varianza: 33.974125486393426
+  - Desviación estándar: 5.828732751327121
+  - Inclinación: 4.89787631161442
+  - Kurtosis: 44.381358162707954
