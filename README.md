@@ -1,4 +1,5 @@
-# Proyecto de programación de IE0405 - Modelos Probabilísticos de Señales y Sistemas
+# Universidad de Costa Rica
+## Proyecto de programación de IE0405 - Modelos Probabilísticos de Señales y Sistemas
 El grupo está conformado por:
 
 Dilana Alexandra Rodríguez Jiménez - C06660
@@ -10,8 +11,19 @@ Sebastián Bonilla Vega             - C01263
 ## Avance del proyecto
 Toda la documentación del primer avance del proyecto esta en este link:
 
-Además el archivo a correr es `avance.py` de los cuales analiza el conjuntos de datos recopilados de `proyecto.db`
+Para correr el proyecto es necesario descargar los documentos proporcionados el git. Además, el código que genera los resultados son `avance.py` y para es en necesario descargar la bibliotecas:
 
+```bash
+pip install matplotlib
+```
+
+```bash
+pip install scipy
+```
+
+```bash
+pip install numpy
+```
 
 ## Resultados del  proyecto
 En esta sección solo se va a mostar sin tanto detalle lo que se obtuvo:
