@@ -2,6 +2,14 @@
 # los histogramas de la variable_1 y la variable_2
 # y generar las líneas de mejor ajuste para estos
 
+
+# http://127.0.0.1:8000/ este va a ser el link del trabajo
+# donde está el documento que corresponde
+# al avance, de igual manera se va subir una archivo con el link.
+# Gabriel González Rivera - B93432
+# Dilana Rodríguez Jiménez - C06660
+# Sebastián Bonilla Vega - C01263
+
 # Se importan las liberías necesarias
 import sqlite3
 import pandas as pd
