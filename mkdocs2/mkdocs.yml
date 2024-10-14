@@ -1,0 +1,19 @@
+site_name: 'Avance del Proyecto de Programación de Modelos Probabilísticos'
+
+nav:
+  - Inicio: index.md
+  - Códigos y datos procesados: codigos.md
+  - Análisis exploratorio de los datos: resulatados.md
+
+theme:
+  name: 'material'
+  logo: 'img/gatos.png'  # Opcional si tienes un logo
+  language: es
+  palette:
+    primary: 'purple'
+  nav_style: primary
+
+    
+
+  
+
