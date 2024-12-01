@@ -1,0 +1,11 @@
+/* Justificar el texto del contenido principal */
+.md-typeset {
+    text-align: justify;
+}
+
+.subrayado {
+    text-decoration: underline;
+    text-decoration-color: black; /* Cambia el color del subrayado */
+    text-decoration-thickness: 2px; /* Grosor del subrayado */
+}
+

@@ -1,9 +1,12 @@
-site_name: 'Avance del Proyecto de Programación de Modelos Probabilísticos'
+site_name: 'Proyecto de Programación de Modelos Probabilísticos'
 
 nav:
   - Inicio: index.md
-  - Códigos y datos procesados: codigos.md
-  - Análisis exploratorio de los datos: resulatados.md
+  - Procesamiento del primer conjunto de datos: primero.md
+  - Procesamiento del segundo conjunto de datos: segundo.md
+  - Resultados: resulatados.md
+  - Análisis: analisis.md
+  - Conclusiones: conclusiones.md
 
 theme:
   name: 'material'
@@ -12,8 +15,20 @@ theme:
   palette:
     primary: 'purple'
   nav_style: primary
+  features:
+    - content.code.copy
 
-    
+markdown_extensions:
+  - pymdownx.arithmatex
+  - codehilite
+  - admonition
+  - pymdownx.tabbed
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+  
+extra_css:
+  - css/custom.css
 
   
 
