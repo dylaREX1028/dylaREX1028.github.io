@@ -9,12 +9,49 @@ Gabriel González Rivera            - B93432
 Sebastián Bonilla Vega             - C01263
 
 ## Avance del proyecto
-Toda la documentación del primer avance del proyecto esta en este link:
+Toda la documentación del primer avance del proyecto no se pudo generar el link público ya que no se tiene todos los permisos en el repositorio. No obstante al clonar el repositorio y dirigirse al directorio mkdocs2 y correr el comando:
+
+```bash
+mkdocs serve 
+```
+se puede acceder mediante este link al mkdocs:
+
+```bash
+http://127.0.0.1:8000/
+```
+
+Es importante mencionar que es necesario instalar una dependencias como:
+
+```bash
+pip install mkdocs
+```
+
+```bash
+pip install mkdocs-material
+```
+
+```bash
+pip install pymdown-extensions
+```
+
+```bash
+pip install markdown-extensions
+```
+
+
 
 Para correr el proyecto es necesario descargar los documentos proporcionados el git. Además, el código que genera los resultados son `avance.py` y para es en necesario descargar la bibliotecas:
 
 ```bash
-pip install matplotlib
+sudo apt update
+```
+
+```bash
+sudo apt install python3 python3-pip
+```
+
+```bash
+pip install matplotlib 
 ```
 
 ```bash
@@ -25,24 +62,7 @@ pip install scipy
 pip install numpy
 ```
 
-## Resultados del  proyecto
-En esta sección solo se va a mostar sin tanto detalle lo que se obtuvo:
+```bash
+pip install filterpy numpy
+```
 
-### Histogramas:
-![image](https://github.com/user-attachments/assets/ed4ec82b-a1ed-4d55-9da4-614e0ddb373a)
-
-### Momentos estadísticos:
-
-- Momentos de variable_1:
-  - Promedio: 0.0030754730077360497
-  - Varianza: 3.2927034329900775
-  - Desviación estándar: 1.8145807871213884
-  - Inclinación: 0.010291901241070064
-  - Kurtosis: 1.1335262206667638
-
-- Momentos de variable_2:
-  - Promedio: 4.292701198685403
-  - Varianza: 33.974125486393426
-  - Desviación estándar: 5.828732751327121
-  - Inclinación: 4.89787631161442
-  - Kurtosis: 44.381358162707954
